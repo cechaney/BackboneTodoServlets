@@ -13,7 +13,7 @@
     <description></description>
     <display-name>TodosServlet</display-name>
     <servlet-name>TodosServlet</servlet-name>
-    <servlet-class>com.thd.bbf.TodosServlet</servlet-class>
+    <servlet-class>com.cec.bbf.TodosServlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>TodosServlet</servlet-name>
